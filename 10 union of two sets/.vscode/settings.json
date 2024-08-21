@@ -1,0 +1,105 @@
+{
+     "files.associations": {
+         "string": "cpp",
+         "array": "cpp",
+         "atomic": "cpp",
+         "*.tcc": "cpp",
+         "bitset": "cpp",
+         "cctype": "cpp",
+         "chrono": "cpp",
+         "clocale": "cpp",
+         "cmath": "cpp",
+         "condition_variable": "cpp",
+         "cstdarg": "cpp",
+         "cstddef": "cpp",
+         "cstdint": "cpp",
+         "cstdio": "cpp",
+         "cstdlib": "cpp",
+         "cstring": "cpp",
+         "ctime": "cpp",
+         "cwchar": "cpp",
+         "cwctype": "cpp",
+         "deque": "cpp",
+         "unordered_map": "cpp",
+         "vector": "cpp",
+         "exception": "cpp",
+         "algorithm": "cpp",
+         "functional": "cpp",
+         "iterator": "cpp",
+         "map": "cpp",
+         "memory": "cpp",
+         "memory_resource": "cpp",
+         "numeric": "cpp",
+         "optional": "cpp",
+         "random": "cpp",
+         "ratio": "cpp",
+         "regex": "cpp",
+         "set": "cpp",
+         "string_view": "cpp",
+         "system_error": "cpp",
+         "tuple": "cpp",
+         "type_traits": "cpp",
+         "utility": "cpp",
+         "fstream": "cpp",
+         "future": "cpp",
+         "initializer_list": "cpp",
+         "iomanip": "cpp",
+         "iosfwd": "cpp",
+         "iostream": "cpp",
+         "istream": "cpp",
+         "limits": "cpp",
+         "mutex": "cpp",
+         "new": "cpp",
+         "ostream": "cpp",
+         "sstream": "cpp",
+         "stdexcept": "cpp",
+         "streambuf": "cpp",
+         "thread": "cpp",
+         "typeinfo": "cpp",
+         "bit": "cpp",
+         "compare": "cpp",
+         "concepts": "cpp",
+         "numbers": "cpp"
+     },
+     "C_Cpp.default.compilerPath": "C:\\msys64\\mingw64\\bin\\g++.exe",
+     "editor.fontSize": 25,
+     "files.autoSave": "afterDelay",
+     "workbench.externalBrowser": "brave",
+     "terminal.integrated.profiles.windows": {
+         "PowerShell": {
+             "source": "PowerShell",
+             "icon": "terminal-powershell"
+         },
+         "Command Prompt": {
+             "path": [
+                 "${env:windir}\\Sysnative\\cmd.exe",
+                 "${env:windir}\\System32\\cmd.exe"
+             ],
+             "args": [],
+             "icon": "terminal-cmd"
+         },
+         "Git Bash": {
+             "source": "Git Bash"
+         },
+         "Cygwin": {
+             "path": "C:\\cygwin64\\bin\\bash.exe",
+             "args": [
+                 "--login"
+             ]
+         },
+         "MSYS2 MINGW64": {
+             "path": "C:\\msys64\\usr\\bin\\bash.exe",
+             "args": [
+                 "--login", "-i", "-c", "cd \"$PWD\" && exec bash"
+             ],
+             "env": {
+                 "MSYSTEM": "MINGW64",
+                 "CHERE_INVOKING": "1"
+             },
+             "icon": "terminal-bash",
+             "startingDirectory": "${workspaceFolder}"
+         }
+     },
+     "terminal.integrated.defaultProfile.windows": "MSYS2 MINGW64"
+ }
+ 
